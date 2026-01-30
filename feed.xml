@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Noah + Sofia 2026</title>
+    <link href="https://neffornothingwedding.github.io/WeddingSite/feed.xml" rel="self" />
+    <link href="https://neffornothingwedding.github.io/WeddingSite" />
+    <updated>1969-12-31T17:00:00-07:00</updated>
+    <author>
+        <name>Sofia + Noah</name>
+    </author>
+    <id>https://neffornothingwedding.github.io/WeddingSite</id>
+
+</feed>
